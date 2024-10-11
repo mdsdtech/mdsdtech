@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Football Player Evaluation System, IoT - Automatic Irrigation System**
 
-- 🌱 I’m currently learning **Laravel, Reactjs, Nodejs, MongoDB**
+- 🌱 I’m currently learning **Laravel, VueJS, AdonisJS, NextJS**
 
 - ⚡ Fun fact **I think I am a owl**
 
