@@ -13,9 +13,6 @@
 ###
 
 <p align="left">Frontend:</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -41,9 +38,6 @@
 ###
 
 <p align="left">Backend:</p>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
@@ -57,23 +51,21 @@
 ###
 
 <p align="left">CMS:</p>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://icons.iconarchive.com/icons/sicons/basic-round-social/256/joomla-icon.png" height="30" alt="joomla logo"  />
+  <img width="12"/>
+  <img src="https://products.containerize.com/discussion-forum/phpbb/header_image.png" height="30" alt="phpbb logo"  />
 </div>
 
 ###
 
 <p align="left">Database:</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
@@ -87,9 +79,6 @@
 ###
 
 <p align="left">DevOps:</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
   <img width="12" />
