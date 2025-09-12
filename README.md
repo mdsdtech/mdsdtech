@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Football Player Evaluation System, IoT - Automatic Irrigation System**
 
-- 🌱 I’m currently learning **Laravel, VueJS, Inertia**
+- 🌱 I’m currently learning **VueJS, Inertia, NuxtJS**
 
 - ⚡ Fun fact **I think I am a owl**
 <br clear="both">
