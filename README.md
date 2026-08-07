@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IoT Devices**
 
-- 🌱 I’m currently learning **VueJS, Inertia, NuxtJS**
+- 🌱 I’m currently learning **NuxtJS & NestJS**
 
 - ⚡ Fun fact **I think I am a owl**
 <br clear="both">
