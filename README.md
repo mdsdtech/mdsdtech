@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MDSDTech</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-- 🔭 I’m currently working on **Football Player Evaluation System, IoT - Automatic Irrigation System**
+- 🔭 I’m currently working on **IoT Devices**
 
 - 🌱 I’m currently learning **VueJS, Inertia, NuxtJS**
 
